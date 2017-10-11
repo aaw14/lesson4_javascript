@@ -13,7 +13,7 @@ Alexis Wood
 In this assignment I was able to generate a interactive calculator using javascript.
 
 ### View Project:
-https://github.com/aaw14/lesson4_javascript.git 
+https://aaw14.github.io/lesson4_javascript/Lesson4_ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
 1. I learned how to declare, initialize, modify and display variables.
