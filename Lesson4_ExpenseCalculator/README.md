@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 11, 2017
 
 ### Student Name:  
-(First and Last Name)
+Alexis Wood
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I was able to generate a interactive calculator using javascript.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/aaw14/lesson4_javascript.git 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to declare, initialize, modify and display variables.
+2. I learned how to write code that responds to a specific event.
+3. I learned how to use the getElementbyId() method, a document object method, to reference elements on a web page using its id value.
 
